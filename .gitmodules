@@ -1,0 +1,8 @@
+[submodule "megabot-driver"]
+	path = megabot-driver
+	url = git@github.com:Eirlab/megabot-driver.git
+	branch = main
+[submodule "megabot-controller"]
+	path = megabot-controller
+	url = git@github.com:Eirlab/megabot-controller.git
+	branch = main
